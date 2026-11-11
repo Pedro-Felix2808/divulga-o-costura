@@ -519,8 +519,13 @@ footer img {
         overflow: hidden;
     }
 
+    .texto-origem{
+        display: flex;
+        flex-direction: row;
+    }
+
     .img-origem {
         display: block;
-        width: 100%;
+        width: 30%;
     }
 }
